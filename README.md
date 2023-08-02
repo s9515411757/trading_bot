@@ -56,3 +56,10 @@ requests==2.31.0
 websocket-client==1.6.1
 websockets==11.0.3
 ```
+==========================================================================
+
+## Настройка ботом происходит через терминал
+![alt text](https://github.com/s9515411757/trading_bot/blob/main/1.png)
+
+## Уведомления ATR
+![alt text](https://github.com/s9515411757/trading_bot/blob/main/2.png)
